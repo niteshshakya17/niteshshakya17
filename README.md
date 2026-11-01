@@ -51,9 +51,12 @@ I'm a BCA AI (Bachelor of Computer Applications in Artificial Intelligence) stud
 
 
 ## 🔥 GitHub Contribution Streak
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=niteshshakya17&theme=tokyonight" alt="GitHub Contribution Streak" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=niteshshakya17&theme=tokyonight"
+    alt="Nitesh Kumar Shakya's GitHub Contribution Streak"
+    width="495"
+  />
 </p>
 
 ## 👀 Profile Views
