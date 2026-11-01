@@ -38,13 +38,17 @@ I'm a BCA AI (Bachelor of Computer Applications in Artificial Intelligence) stud
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=niteshshakya17&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=niteshshakya17&show_icons=true&theme=tokyonight&commits_year=2026&hide_border=true&hide=contribs"
+    alt="Nitesh Kumar Shakya GitHub Stats"
     width="495"
   />
 </p>
+
+
+
 
 ## 🔥 GitHub Contribution Streak
 
