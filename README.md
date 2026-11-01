@@ -59,6 +59,15 @@ I'm a BCA AI (Bachelor of Computer Applications in Artificial Intelligence) stud
   />
 </p>
 
+---
+
+## 📅 GitHub Journey
+
+🚀 Member Since: October 2026
+
+---
+
+
 ## 👀 Profile Views
 
 <p>
